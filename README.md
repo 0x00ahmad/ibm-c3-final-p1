@@ -11,3 +11,5 @@ You have to provide it with a few arguments:
   
 Which will calculate and provide the result:
    simple interest = p*t*r
+  
+_Part 1 of final project for the 3rd course in the IBM Fullstack specialization on coursera._
